@@ -1,2 +1,0 @@
-# Trojans
-Disclaimer: This repository is not for criminal purposes but this is for educational purposes only!
